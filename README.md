@@ -1,1 +1,0 @@
-# git-mini-cours-jour1
